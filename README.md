@@ -51,10 +51,12 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
-![Screenshot 2023-09-19 153933](https://github.com/sakthivel005/ARP-Attack-and-Network-Sniffing/assets/120550359/ca948d9d-0cc9-4b8e-9930-f82593951905)
+
+![Screenshot 2023-09-19 154132](https://github.com/sakthivel005/ARP-Attack-and-Network-Sniffing/assets/120550359/f7c76331-fedc-41f1-92de-616ae5cea343)
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+![Screenshot 2023-09-19 153933](https://github.com/sakthivel005/ARP-Attack-and-Network-Sniffing/assets/120550359/2a6a7c6e-b757-42d0-b2d6-7f6da7da0269)
 
 
 ## RESULT:
